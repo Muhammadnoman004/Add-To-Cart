@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    background-color: whitesmoke !important;
+}
+#Icon{
+    width: 100px;  
+}
+.main1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  
+}
+.card{
+    margin: 10px;
+    
+}
+#img{
+    height: 350px;
+    padding: 10px;
+}
+#Tittle{
+    padding-top: 15px;   
+}
+#Price{
+    padding-top: 10px;
+}
+#des{
+    height: 150px;
+    padding-top: 10px;
+}
+#AddBtn{
+    position: absolute;
+    bottom: 20px;
+}
